@@ -35,3 +35,6 @@ Screenshots: `dashboards/screenshots/`
 - Revenue concentration exists with a small subset of SKUs driving a disproportionate share of sales.
 - Demand shows seasonality patterns that can inform inventory and promotional timing.
 - Pricing signals highlight SKUs with high revenue but weaker unit velocity, indicating possible pricing or assortment risks.
+## Executive Risk Monitoring
+The project includes proactive alert logic to flag SKUs experiencing abnormal drops in revenue or unit volume. 
+This enables early identification of pricing, demand, or operational risks before they materially impact marketplace performance.
