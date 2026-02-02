@@ -1,18 +1,26 @@
-# Data files
-data/raw/
-data/processed/
-
 # Python
 .venv/
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
 
 # OS
 .DS_Store
 Thumbs.db
 
+# Data (raw/processed/exports)
+data/raw/
+data/processed/
+data/processed/exports/
+
+# Local DB
+*.db
+*.sqlite
+*.sqlite3
+
 # Power BI
 *.pbix
+*.pbit
+
+# Logs
+*.log
